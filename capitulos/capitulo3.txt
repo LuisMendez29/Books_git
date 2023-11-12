@@ -1,1 +1,2 @@
-Git permite la creacion de ramas lo que permite tener distintas versiones de m
+Git permite la creación de ramas lo que permite tener distintas versiones del m
+[D[D[D[D[D[D[D[D[D[D
