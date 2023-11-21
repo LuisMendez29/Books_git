@@ -1,1 +1,1 @@
-# Escribir el nombre dell autor y  su correod.
+# Escribir el nombre del autor y su correo.
